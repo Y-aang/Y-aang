@@ -4,7 +4,8 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/Y-aang/count.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-aang&layout=compact&theme=tokyonight)
+![material-palenight](https://github-readme-stats.vercel.app/api?username=Y-aang&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)
+
 </div>
 
 <!--
